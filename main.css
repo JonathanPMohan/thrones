@@ -4,11 +4,17 @@ body {
     color: maroon;
     padding: 1%;
     margin: 1%;
+    font-family: 'Roboto Condensed', sans-serif;
 }
 
+.got {
+    margin: 3%;
+    font-size: 50pt;
+}
 .character-card {
     display: inline-block;
     text-align: center;
+    padding-top: 3%;
     
 }
 
